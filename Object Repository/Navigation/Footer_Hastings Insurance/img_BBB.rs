@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_BBB</name>
+   <tag></tag>
+   <elementGuidId>197302af-38f9-4dd2-80b0-d4df5b2f7622</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Contentplaceholder1_T99701C38042_Col03']/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Hastings Mutual Insurance Company BBB Business Review&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hastings Mutual Insurance Company BBB Business Review&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9183e7f5-33a5-4eec-9b65-aab03ce9963d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://seal-westernmichigan.bbb.org/seals/blue-seal-187-130-bbb-12002242.png</value>
+      <webElementGuid>29dcf3ed-f443-47e3-afcf-65fe2dd0c3a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hastings Mutual Insurance Company BBB Business Review</value>
+      <webElementGuid>88d51efd-ceb1-408d-b216-1853dfa93359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contentplaceholder1_T99701C38042_Col03&quot;)/div[1]/div[1]/a[1]/img[1]</value>
+      <webElementGuid>b99beb68-85f0-4077-84a4-43afeb578546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Contentplaceholder1_T99701C38042_Col03']/div/div/a/img</value>
+      <webElementGuid>6d403248-06f1-4f0a-8f65-07b7a92992ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Hastings Mutual Insurance Company BBB Business Review']</value>
+      <webElementGuid>c378d22b-1e20-4270-9055-d9f13667215e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a/img</value>
+      <webElementGuid>b9c27058-0bc6-465b-a1f1-025398ba1b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://seal-westernmichigan.bbb.org/seals/blue-seal-187-130-bbb-12002242.png' and @alt = 'Hastings Mutual Insurance Company BBB Business Review']</value>
+      <webElementGuid>0024d2df-fce3-44b0-bd3f-6b5f7180efc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

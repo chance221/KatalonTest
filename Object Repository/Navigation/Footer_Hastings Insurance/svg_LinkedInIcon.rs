@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_LinkedInIcon</name>
+   <tag></tag>
+   <elementGuidId>af90f560-2e2c-4364-8d98-0dffd5532574</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/a[@href='https://www.linkedin.com/company/hastings-mutual-insurance-company']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lnkin > a > svg.social-icn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;linkedin&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c594fbf9-61bf-4e7f-909f-d06a4f1ba538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>social-icn</value>
+      <webElementGuid>fa84a835-c989-4c49-80ae-dbdd8a9d2dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0c1c9fbc-b16e-41c9-b606-70b131b2351c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lnkin&quot;)/a[1]/svg[@class=&quot;social-icn&quot;]</value>
+      <webElementGuid>90c75dfc-049d-42b3-af2f-32e68bdf23d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In the News'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>ab310e1f-11b2-405e-bb79-67e4a01b7aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/following::*[name()='svg'][4]</value>
+      <webElementGuid>b3fef1b1-f8f4-4b40-bbd2-2a1031adf8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use and Privacy Statement'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>e3cac118-47ba-4593-b572-b29171cb0d32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

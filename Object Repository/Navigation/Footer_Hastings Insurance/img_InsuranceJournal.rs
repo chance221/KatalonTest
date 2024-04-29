@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_InsuranceJournal</name>
+   <tag></tag>
+   <elementGuidId>f4ba6ced-54c3-42d9-9b0f-3fa0005d199d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Contentplaceholder1_T99701C38042_Col00']/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Insurance Journal Super Regional P/C Insurer&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Insurance Journal Super Regional P/C Insurer&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>dee1db64-ebc2-488e-809f-55bb3e246e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Insurance Journal Super Regional P/C Insurer</value>
+      <webElementGuid>0a11edad-732f-4531-b18c-36fb8f828283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.insurancejournal.com/img/super-regional-pc-insurers-badge-2022-200x200.png</value>
+      <webElementGuid>2a0764f7-d12c-4c65-acb9-938ebd90c18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contentplaceholder1_T99701C38042_Col00&quot;)/div[1]/div[1]/a[1]/img[1]</value>
+      <webElementGuid>1eab30c4-fefc-426e-9ae7-ca60d9347c59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Contentplaceholder1_T99701C38042_Col00']/div/div/a/img</value>
+      <webElementGuid>fd20c33a-b600-4649-8476-f4381330fc89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Insurance Journal Super Regional P/C Insurer']</value>
+      <webElementGuid>dd29d4db-bd4c-4365-ba41-cced5e1b944e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/img</value>
+      <webElementGuid>cb3f53f7-e070-4aca-a6dd-1d039395056d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Insurance Journal Super Regional P/C Insurer' and @src = 'https://www.insurancejournal.com/img/super-regional-pc-insurers-badge-2022-200x200.png']</value>
+      <webElementGuid>efec1763-ec7d-400f-80dc-317711a10d6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

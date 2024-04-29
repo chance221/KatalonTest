@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_CIO100</name>
+   <tag></tag>
+   <elementGuidId>6e515bd6-e70e-4e15-addc-5050d0708b70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Contentplaceholder1_T99701C38042_Col02']/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;CIO 100 Winner&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;CIO 100 Winner&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c2c705c1-799f-47b4-bdd6-1a1014b21856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/default-source/default-album/ci0100.png?sfvrsn=b8074bb5_4</value>
+      <webElementGuid>25783023-5b16-4af3-97ac-605217f178a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>CIO 100 Winner</value>
+      <webElementGuid>30b78c78-1a64-4326-8454-448bb4122ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contentplaceholder1_T99701C38042_Col02&quot;)/div[1]/div[1]/a[1]/img[1]</value>
+      <webElementGuid>aeeca6e8-4810-4e16-8c2b-9901d61d40f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Contentplaceholder1_T99701C38042_Col02']/div/div/a/img</value>
+      <webElementGuid>b2daeec2-4a91-493e-b5a8-47263ed13922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='CIO 100 Winner']</value>
+      <webElementGuid>6f621e1c-e987-48e8-81e6-b559e1b788c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a/img</value>
+      <webElementGuid>a83b379e-3b16-46fc-94b1-22741784df28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/default-source/default-album/ci0100.png?sfvrsn=b8074bb5_4' and @alt = 'CIO 100 Winner']</value>
+      <webElementGuid>6dd9e7c5-ce0f-4818-a301-6e24c39b9d23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_XTwitterIcon</name>
+   <tag></tag>
+   <elementGuidId>9bbf9382-890e-4026-b0a3-2723ca24d24e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/a[@href='https://www.glassdoor.com/Overview/Working-at-Hastings-Mutual-EI_IE17025.11,26.htm']&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#twtter > a > svg.social-icn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;twitter&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>3b55f555-8d79-4cf9-ad1a-9f979a1dee54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>social-icn</value>
+      <webElementGuid>1db0fa58-bb75-43ed-8ff1-015cec7edd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ccc0ec8d-5809-4af6-a48e-605698d91ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;twtter&quot;)/a[1]/svg[@class=&quot;social-icn&quot;]</value>
+      <webElementGuid>b08526de-0709-4f4d-be3f-33ff4c9355ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In the News'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>ad843257-9003-4bc5-a99b-371c45b923be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/following::*[name()='svg'][3]</value>
+      <webElementGuid>359c9c66-086e-4a02-948a-0e57a56bff4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use and Privacy Statement'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>43442b4b-492e-44ba-8ee4-26a497455d80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_BestsReview</name>
+   <tag></tag>
+   <elementGuidId>9da62ba5-7475-4327-8d06-479f50c8a62f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Contentplaceholder1_T99701C38042_Col01']/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;A.M. Best's Standing the Test of Time - rated A or higher for 50 years&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;A.M. Best's Standing the Test of Time - rated A or higher for 50 years&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>20287c7b-2fa1-45b4-8c38-77bffc39e222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/default-source/default-album/standing-test-of-time_50years.png?sfvrsn=e8ee57b5_2</value>
+      <webElementGuid>d7451ee0-01c9-42a3-b4d4-56dab3045a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>A.M. Best's Standing the Test of Time - rated A or higher for 50 years</value>
+      <webElementGuid>7c760d51-bf45-4010-9143-b000acf130b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contentplaceholder1_T99701C38042_Col01&quot;)/div[1]/div[1]/a[1]/img[1]</value>
+      <webElementGuid>e3abf34e-7fc9-47ce-ab03-3302348bb643</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Contentplaceholder1_T99701C38042_Col01']/div/div/a/img</value>
+      <webElementGuid>9aa9f60a-6a18-4721-9a8b-0a6626e5ce2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;A.M. Best's Standing the Test of Time - rated A or higher for 50 years&quot;]</value>
+      <webElementGuid>f9ed5867-0cdc-47d8-b398-db1afeffbceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/img</value>
+      <webElementGuid>90812a81-3e69-4492-883c-dd830505a786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/default-source/default-album/standing-test-of-time_50years.png?sfvrsn=e8ee57b5_2' and @alt = concat(&quot;A.M. Best&quot; , &quot;'&quot; , &quot;s Standing the Test of Time - rated A or higher for 50 years&quot;)]</value>
+      <webElementGuid>1dd01b59-4351-4c4e-accc-01d7412b1884</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

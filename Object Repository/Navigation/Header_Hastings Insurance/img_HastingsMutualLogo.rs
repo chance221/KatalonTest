@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_HastingsMutualLogo</name>
+   <tag></tag>
+   <elementGuidId>24eb3906-be40-4ad1-9f03-ff53b59eddbd</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Contentplaceholder1_T99701C38002_Col00']/nav/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Hastings Mutual Insurance Company logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;home&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1a7ca150-f03f-4ced-b6d7-2f9a1db7f93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Resources/images/transparent_logo.png</value>
+      <webElementGuid>4dd373ea-d50f-4d66-a6b2-217b791bba1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hastings Mutual Insurance Company logo</value>
+      <webElementGuid>47daf238-fe9d-436a-a564-f66f3b13f385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contentplaceholder1_T99701C38002_Col00&quot;)/nav[@class=&quot;navbar navbar-expand-xl main-nav fixed-top&quot;]/a[@class=&quot;navbar-brand&quot;]/img[1]</value>
+      <webElementGuid>e31fb4d1-8cc9-4032-bbd7-b95fc7d99e51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Contentplaceholder1_T99701C38002_Col00']/nav/a/img</value>
+      <webElementGuid>789ec20a-c6ab-4d42-b8bc-2002a2ea746c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Hastings Mutual Insurance Company logo']</value>
+      <webElementGuid>cefbb335-8fa1-4942-9d08-bf7be0d95e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>13c47d3e-853e-49ac-9c3f-4e7366d4ac4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/Resources/images/transparent_logo.png' and @alt = 'Hastings Mutual Insurance Company logo']</value>
+      <webElementGuid>d69bd0a5-67fe-4b5e-a01e-64394df3520b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

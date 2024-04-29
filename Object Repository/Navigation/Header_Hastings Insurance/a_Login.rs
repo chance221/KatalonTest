@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Login</name>
+   <tag></tag>
+   <elementGuidId>cd277367-d208-41fa-8332-c1e609e09f0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/ul/li/a[(text() = 'Login' or . = 'Login')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.box-link > a.nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#navbar-main >> internal:role=link[name=&quot;Login&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9aa0a5b6-7ad8-460e-92b0-ff236df79adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>d0a2d9f1-f54f-4bb4-a7f3-586f05b07804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://intdev01.hastingsmutual.com/Authentication/Login?ReturnUrl=https://webdev.hastingsmutual.com/userauthorized</value>
+      <webElementGuid>1a3d88cb-7d3d-4846-b45b-9e9afc4fc213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>df79ebbb-2cf8-4b07-8ed1-adf43f4bdd45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>840e5ff8-5d70-4548-bb70-a3d824f2c5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-main&quot;)/ul[@class=&quot;nav navbar-nav side-nav my-2 my-lg-0&quot;]/li[@class=&quot;box-link&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>288a8bed-8a92-4a58-9342-1b09580aeb97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-main']/ul[2]/li[3]/a</value>
+      <webElementGuid>5f601c80-3287-4383-b8a2-d6ce74d2c555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::a[1]</value>
+      <webElementGuid>eac30d06-3a8f-4547-be5b-cd87f149f6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find an Agent'])[1]/following::a[2]</value>
+      <webElementGuid>6f47ebb5-7ea7-41f4-83a8-616821d5ed13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a Payment'])[1]/preceding::a[2]</value>
+      <webElementGuid>dc55e95d-2cf4-43f8-8a9a-31b237092167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://intdev01.hastingsmutual.com/Authentication/Login?ReturnUrl=https://webdev.hastingsmutual.com/userauthorized')]</value>
+      <webElementGuid>9aa7c823-058a-432a-9e89-7f14e64efcda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[3]/a</value>
+      <webElementGuid>ed457a72-2cc4-4442-b8be-07b9cac9e16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://intdev01.hastingsmutual.com/Authentication/Login?ReturnUrl=https://webdev.hastingsmutual.com/userauthorized' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>7b24b685-f097-48ab-a0ce-399986c44848</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_facebook_icon</name>
+   <tag></tag>
+   <elementGuidId>3bd83abf-9787-4fc1-ae8b-5534e18e6d60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/a[@href='https://www.facebook.com/HastingsMutual/']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.social-icn > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;facebook&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>980e0e12-42f7-42e3-88ec-16edc02f32aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M22.2,0H1.8C0.8,0,0,0.8,0,1.7v8.9v3.1v8.5c0,1,0.8,1.7,1.8,1.7h7.6h0.8v-8.3H7v-3.5h3.1V9.5&#xd;
+	c0-3,1.8-4.7,4.6-4.7C16,4.8,17.4,5,17.4,5v3h-1.5c-1.5,0-2,0.9-2,1.9v2.3h3.4l-0.5,3.5h-2.8V24h0.8h7.6c1,0,1.8-0.8,1.8-1.7v-8.5&#xd;
+	v-3.1V1.7C24,0.8,23.2,0,22.2,0z</value>
+      <webElementGuid>e0b0182e-ebaa-4e67-a057-3115afcafc02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fb&quot;)/a[1]/svg[@class=&quot;social-icn&quot;]/path[1]</value>
+      <webElementGuid>cf7d730a-451a-4046-831b-7edf57212c21</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

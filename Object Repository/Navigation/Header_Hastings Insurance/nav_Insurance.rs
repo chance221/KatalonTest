@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_Insurance                        About Us                        Safety Tips                        Blog                                Find an Agent                Contact                                Login</name>
+   <tag></tag>
+   <elementGuidId>d523474f-9cde-4ee6-9fbd-2f50763f6b79</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav//div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav.navbar.navbar-expand-xl.main-nav.fixed-top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>nav >> internal:has-text=&quot;Insurance About Us Safety Tips Blog Find an Agent Contact Login&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>072e6803-f215-45d9-beea-7ec77b3d3598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar navbar-expand-xl main-nav fixed-top</value>
+      <webElementGuid>7770e2ec-88a8-439a-912d-6cab143c185e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>navigation</value>
+      <webElementGuid>967cdb26-9665-44af-9236-367883f8f45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&#xd;
+&#xd;
+    &#xd;
+    &#xd;
+        &#xd;
+    &#xd;
+&#xd;
+    &#xd;
+&#xd;
+        &#xd;
+                        Insurance&#xd;
+                        About Us&#xd;
+                        Safety Tips&#xd;
+                        Blog&#xd;
+        &#xd;
+        &#xd;
+                Find an Agent&#xd;
+&#xd;
+                Contact&#xd;
+&#xd;
+&#xd;
+&#xd;
+            &#xd;
+                    Login&#xd;
+            &#xd;
+&#xd;
+&#xd;
+            &#xd;
+                &#xd;
+            &#xd;
+        &#xd;
+    &#xd;
+    </value>
+      <webElementGuid>83fcd2c8-ceea-42ad-af4d-ad26c9f30bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contentplaceholder1_T99701C38002_Col00&quot;)/nav[@class=&quot;navbar navbar-expand-xl main-nav fixed-top&quot;]</value>
+      <webElementGuid>ea15ffe5-3021-414b-b744-9153224863f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Contentplaceholder1_T99701C38002_Col00']/nav</value>
+      <webElementGuid>1d864a97-65f9-4be1-b3be-f8000c13502c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav</value>
+      <webElementGuid>f3064450-f68c-4f99-9e66-8176f02ace9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = '&#xd;
+&#xd;
+    &#xd;
+    &#xd;
+        &#xd;
+    &#xd;
+&#xd;
+    &#xd;
+&#xd;
+        &#xd;
+                        Insurance&#xd;
+                        About Us&#xd;
+                        Safety Tips&#xd;
+                        Blog&#xd;
+        &#xd;
+        &#xd;
+                Find an Agent&#xd;
+&#xd;
+                Contact&#xd;
+&#xd;
+&#xd;
+&#xd;
+            &#xd;
+                    Login&#xd;
+            &#xd;
+&#xd;
+&#xd;
+            &#xd;
+                &#xd;
+            &#xd;
+        &#xd;
+    &#xd;
+    ' or . = '&#xd;
+&#xd;
+    &#xd;
+    &#xd;
+        &#xd;
+    &#xd;
+&#xd;
+    &#xd;
+&#xd;
+        &#xd;
+                        Insurance&#xd;
+                        About Us&#xd;
+                        Safety Tips&#xd;
+                        Blog&#xd;
+        &#xd;
+        &#xd;
+                Find an Agent&#xd;
+&#xd;
+                Contact&#xd;
+&#xd;
+&#xd;
+&#xd;
+            &#xd;
+                    Login&#xd;
+            &#xd;
+&#xd;
+&#xd;
+            &#xd;
+                &#xd;
+            &#xd;
+        &#xd;
+    &#xd;
+    ')]</value>
+      <webElementGuid>39b121b5-d337-46ba-a14f-f20a822cc81f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
